@@ -1,0 +1,16 @@
+.Center_block{
+    width: 550px;
+    margin: 50px 0 0 50px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.5);
+}
+.Center_block h1{
+    padding: 20px;
+    color: red;
+    font-style: italic;
+}
+.Center_block p{
+    padding: 0 40px 40px 40px;
+    color: green;
+    font-style: italic;
+}

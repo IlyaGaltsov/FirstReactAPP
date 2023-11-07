@@ -1,0 +1,4 @@
+.bloks_container{
+    display: flex;
+    gap: 50px;
+}
